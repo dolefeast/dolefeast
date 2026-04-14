@@ -1,3 +1,3 @@
 Hey!
 
-I'm a physics undergrad fairly interested in simulation
+I'm a physics Ph.D. student fairly interested in simulation
